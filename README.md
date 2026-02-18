@@ -1,7 +1,7 @@
 # Proyecto de Ajedrez en Java
 
 Proyecto realizado en Java con tecnología Maven como proyecto final de la asignatura **POO**.  
-Es un ajedrez básico que contiene las mecánicas de mover, comer y cambiar de turno.
+Es un ajedrez básico que contiene las mecánicas de mover, matar y cambiar de turno.
 
 ## Autores
 - Emmanuel Bonilla Mitrotti
