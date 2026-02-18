@@ -18,7 +18,7 @@ It is a basic chess game that includes the mechanics of moving, capturing, and t
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/usuario/proyecto-ajedrez.git
+   https://github.com/SebasO1/AjedrezPOO/
 2. Enter the project folder:
     cd chess-project
 3. Compile with Maven:
@@ -55,7 +55,7 @@ Es un ajedrez básico que contiene las mecánicas de mover, matar y cambiar de t
 ## Instalación
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-ajedrez.git
+   https://github.com/SebasO1/AjedrezPOO/
 2. Entrar en la carpeta del proyecto:
     cd proyecto-ajedrez
 3. Compilar con Maven:
