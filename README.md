@@ -1,3 +1,42 @@
+## ENG
+
+# Chess Project in Java
+
+Project developed in Java with Maven technology as the final project for the **Object Oriented Programming** course.  
+It is a basic chess game that includes the mechanics of moving, capturing, and taking turns.
+
+## Authors
+- Emmanuel Bonilla Mitrotti
+- Diego Tique
+- Sebastián Olaya
+
+## Technologies used
+- Java (OpenJDK 25)
+- Maven
+- VS Code / NetBeans
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/usuario/proyecto-ajedrez.git
+2. Enter the project folder:
+    cd chess-project
+3. Compile with Maven:
+    mvn clean install
+## Usage
+Run the project with:
+    mvn exec:java
+
+## Features
+- Basic piece movement.
+- Piece capture.
+- Turn switching between players.
+
+## License
+This project was developed for academic purposes.
+
+## ESP
+
 # Proyecto de Ajedrez en Java
 
 Proyecto realizado en Java con tecnología Maven como proyecto final de la asignatura **POO**.  
