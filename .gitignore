@@ -1,0 +1,20 @@
+# Compilados de Java
+*.class
+
+# Archivos empaquetados
+*.jar
+*.war
+*.ear
+
+# Directorio de Maven
+/target/
+
+# Configuración de IDEs
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
+# Archivos temporales
+*.tmp
